@@ -1,0 +1,57 @@
+/**service-terms**/
+body{
+    color: #333333;
+    font-size: 20px;
+}
+
+.term00 {
+    background: url("../images/common/ibg01.jpg");
+    height: 408px; 
+}
+
+.term00 dl{
+    padding: 175px 0 0 0;
+    text-align: center;
+    color: #fff;
+}
+
+.term00 dd{
+    color: #d9d9d9;
+}
+
+.term00 dt{
+    font-size: 36px;
+    padding-bottom: 40px;
+}
+.term01 {
+    background: #fff;
+    margin: 0 0 100px 0;
+}
+
+.term01 h2{
+    padding: 106px 0 20px 0;
+    color: #008bd8;
+    font-size: 43px;
+}
+
+.term01 b{
+    padding: 10px 0 0 0;
+    font-size: 36px;
+}
+
+.term01 p{
+    margin: 30px 0;
+    line-height: 40px;
+    text-align: justify;
+}
+
+.term01 ul{
+    list-style: inherit;
+    padding: 0 0 0 33px;
+    text-align: justify;
+    line-height: 40px;
+}
+
+.term01 ul div{
+    padding-left: 30px;
+}

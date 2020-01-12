@@ -1,0 +1,46 @@
+
+.data01 {
+    background: url(../images/data/ibg01.jpg) no-repeat center top;
+    height: 990px;
+}
+.data01 dl{
+    padding-top: 238px;
+}
+.data01 dl dt{
+    padding: 160px 0 0 140px;
+    font-size: 55px;
+    color: #fff;
+    line-height: 80px;
+}
+.data01 dl dd{
+    float: right;
+    padding-right: 85px;
+}
+.data02 {
+    background: url(../images/data/ibg02.jpg) no-repeat center top;
+    height: 316px;
+}
+.data02 p{
+    padding-top: 85px;
+    text-align: center;
+    color: #333333;
+}
+.data03 {
+    background: url(../images/data/ibg03.jpg) no-repeat center top;
+    height: 911px;
+}
+.data03 dl{
+    padding-top: 110px;
+}
+.data03 p{
+    padding-top: 30px;
+}
+
+
+
+
+
+
+
+
+

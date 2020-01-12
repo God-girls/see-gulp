@@ -1,0 +1,297 @@
+/*user*/
+.spon01 {
+    background: url(../images/master/sponsor/ibg01.jpg) no-repeat center top;
+    height: 938px;
+}
+.spon01 dl{
+    padding-top: 198px;
+}
+.spon01 dl dt{
+    padding-top: 140px;
+    font-size: 55px;
+    color: #fff;
+    line-height: 80px;
+}
+.spon01 dl dd{
+    float: right;
+    padding-right: 305px;
+}
+.spon02 {
+    background: url(../images/master/sponsor/ibg02.jpg) no-repeat center top;
+    height: 480px;
+}
+.spon02 p{
+    padding-top: 110px;
+    text-align: center;
+    color: #333333;
+}
+.spon03 {
+    background: url(../images/master/sponsor/ibg03.jpg) no-repeat center top;
+    height: 799px;
+}
+.spon03 p{
+    padding-top: 30px;
+}
+.spon04 {
+    background: url(../images/master/sponsor/ibg04.jpg) no-repeat center top;
+    height: 909px;
+}
+.spon04 dl{
+    padding-top: 250px;
+}
+.spon04 ul{
+	padding-top: 40px;
+}
+.spon04 ul li{
+    display: inline-block;
+    padding:138px 130px 0 0;
+    width: 220px;
+    background: url(../images/public/li01.png) no-repeat left top;
+}
+.spon04 ul li.sponLi02{
+    background: url(../images/public/li02.png) no-repeat left top;
+}
+.spon04 ul li.sponLi03{
+    background: url(../images/public/li03.png) no-repeat left top;
+}
+.spon04 ul li b{
+   font-size: 62px;
+   color: #333333;
+   display: block;
+   height: 82px;
+}
+.spon04 ul li p{
+	font-size:25px;
+	color: #666666
+}
+.spon04 li a{
+	margin-top: 60px;
+}
+
+/*data*/
+
+.data01 {
+    background: url(../images/master/data/ibg01.jpg) no-repeat center top;
+    height: 990px;
+}
+.data01 dl{
+    padding-top: 238px;
+}
+.data01 dl dt{
+    padding: 160px 0 0 140px;
+    font-size: 50px;
+    color: #fff;
+    line-height: 80px;
+}
+.data01 dl dd{
+    float: right;
+    padding-right: 85px;
+}
+.data02 {
+    background: url(../images/master/data/ibg02.jpg) no-repeat center top;
+    height: 316px;
+}
+.data02 p{
+    padding-top: 85px;
+    text-align: center;
+    color: #333333;
+}
+.data03 {
+    background: url(../images/master/data/ibg03.jpg) no-repeat center top;
+    height: 911px;
+}
+.data03 dl{
+    padding-top: 110px;
+}
+.data03 p{
+    padding-top: 30px;
+}
+
+/*brand*/
+
+.brand01 {
+    background: url(../images/master/brand/ibg01.jpg) no-repeat center top;
+    height: 990px;
+}
+.brand01 dl{
+    padding-top: 209px;
+}
+.brand01 dl dt{
+    padding: 90px 0 0 0px;
+    font-size: 55px;
+    color: #fff;
+    line-height: 80px;
+}
+.brand01 dl dd{
+    float: right;
+    padding-right: 85px;
+}
+.brand02 {
+    background: url(../images/master/brand/ibg02.jpg) no-repeat center top;
+    height: 316px;
+}
+.brand02 p{
+    padding-top: 85px;
+    text-align: center;
+    color: #333333;
+}
+.brand04 {
+    background: url(../images/master/brand/ibg04.jpg) no-repeat center top;
+    height: 911px;
+}
+.brand04 dl{
+    padding: 110px 0 0 304px;
+}
+.brand04 p{
+    padding-top: 12px;
+}
+
+.brand03 {
+    background: url(../images/master/brand/ibg03.jpg) no-repeat center top;
+    height: 911px;
+}
+.brand03 dl{
+    padding: 160px 0 0 0px;
+}
+.brand03 ul{
+    padding-top: 40px;
+}
+.brand03 ul li{
+    display: inline-block;
+    padding:110px 55px 0 0;
+    /*width: 220px;*/
+    background: url(../images/public/li01.png) no-repeat left 12px;
+    background-size: 60px;
+}
+.brand03 ul li.sponLi02{
+    background: url(../images/public/li02.png) no-repeat left 12px;
+    background-size: 70px;
+}
+.brand03 ul li.sponLi03{
+    background: url(../images/public/li03.png) no-repeat left 12px;
+    background-size: 70px;
+}
+.brand03 ul li.sponLi04{
+    background: url(../images/public/li04.png) no-repeat -22px top;
+    background-size: 98px;
+}
+
+.brand03 ul li b{
+   font-size: 40px;
+   color: #333333;
+   display: block;
+   height: 52px;
+}
+.brand03 ul li p{
+    font-size:16px;
+    color: #666666
+}
+
+/*product wifi*/
+
+.wifi01 {
+    background: url(../images/product/wifi/ibg01.jpg) no-repeat center top;
+    height: 990px;
+}
+.wifi01 dl{
+    padding: 309px 0 0 278px;
+}
+.wifi01 dl dd{
+    color: #999999
+}
+.wifi01 dl dt h5{
+    color: #fff;
+}
+.wifi01 p{
+    padding:40px 0 0  278px;
+    font-size: 40px;
+    color: #fff;
+}
+.wifi02 {
+    background: url(../images/product/wifi/ibg02.jpg) no-repeat center top;
+    height: 908px;
+}
+.wifi02 dl{
+    padding-top: 260px;
+}
+.wifi04 {
+    background: url(../images/product/wifi/ibg04.jpg) no-repeat center top;
+    height: 910px;
+}
+.wifi04 dl{
+    /*padding: 130px 0 0 304px;*/
+}
+.wifi04 p{
+    padding-top: 40px;
+}
+.wifi04Bg{
+	padding:146px 0 41px 544px; 
+	 background: url(../images/product/wifi/mobile2.png) no-repeat 37px 89px ;
+}
+.wifi03 {
+    background: url(../images/product/wifi/ibg03.jpg) no-repeat center top;
+    height: 911px;
+}
+.wifi03 .wrapper{
+   padding: 80px 0 0 0; 
+}
+.wifi03 dl{
+    padding: 130px 0 0 0px;
+}
+.wifi03 p{
+    padding-top: 40px;
+}
+
+/*product internet*/
+
+.net01 {
+    background: url(../images/product/net/ibg01.jpg) no-repeat center top;
+    height: 990px;
+}
+.net01 dl{
+    padding: 277px 0 0 0px;
+}
+.net01 dl dd{
+    color: #999999
+}
+.net01 dl dt h5{
+    color: #fff;
+}
+.net01 p{
+    padding:40px 0 0  0px;
+    font-size: 40px;
+    color: #fff;
+}
+.net02 {
+    background: url(../images/product/net/ibg02.jpg) no-repeat center top;
+    height: 908px;
+}
+.net02 dl{
+    padding-top: 260px;
+}
+.net04 {
+    background: url(../images/product/net/ibg04.jpg) no-repeat center top;
+    height: 910px;
+}
+.net04 dl{
+    /*padding: 130px 0 0 304px;*/
+}
+.net04 p{
+    padding-top: 40px;
+}
+.net04Bg{
+    padding:249px 534px 0px 0px; 
+     background: url(../images/product/net/mobile2.png) no-repeat right 79px ;
+     height: 658px;
+}
+.net03 {
+    background: url(../images/product/net/ibg03.jpg) no-repeat center top;
+    height: 911px;
+}
+.net03 dl{
+    padding: 170px 0 0 270px;
+}
+.net03 p{
+    padding: 40px 0 0 253px;
+}
+

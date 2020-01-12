@@ -1,0 +1,121 @@
+
+.indexP01 {
+    background: url(../images/index/ibg01.jpg) no-repeat center top;
+    height: 990px;
+}
+.indexP01 dl > *{
+    display: inline-block;
+    vertical-align: top;
+}
+.indexP01 dl{
+    padding-top: 72px;
+}
+.indexP01 dl dd{
+    padding-left: 112px;
+}
+.indexP01 dl dt{
+    color: #fff;
+    line-height: 75px;
+    padding-top: 175px;
+    padding-left: 35px;
+}
+.indexP01 dl dt p{
+    font-size: 32px;
+    line-height: 60px;
+    padding: 70px 0;
+}
+.indexP01 dl dt a{
+    width: 328px;
+    height: 60px;
+    line-height: 44px;
+    font-size: 32px;
+    border-radius: 50px;
+}
+.indexP02 {
+    background: url(../images/index/ibg02.jpg) no-repeat center top;
+    height: 910px;
+}
+
+.indexP02 dl{
+    padding-top: 185px;
+}
+.indexP02 dl dt{
+    padding-top: 80px;
+    font-size: 55px;
+    color: #fff;
+    line-height: 80px;
+}
+.indexP02 dl dt p{
+    font-size: 40px;
+    color: #666666;
+    padding-top: 15px;
+}
+.indexP02 dl dt b{
+    font-size: 60px;
+    color: #0082cc;
+}
+.indexP02 dl dd{
+    float: right;
+    padding-right: 251px;
+}
+
+.indexP03 {
+    background: url(../images/index/ibg03.jpg) no-repeat center top;
+    height: 911px;
+}
+.indexP03 dl{
+    padding: 215px 0 0 832px;
+}
+.indexP03 dl dt{
+    color: #333333;
+    font-size: 40px;
+}
+.indexP03 dl dd{
+    color: #0082cc;
+    padding:40px 0 10px;
+}
+.indexP03 ul{
+    padding-top: 40px;
+    padding-left: 555px;
+}
+.indexP03 ul li{
+    display: inline-block;
+    padding:110px 55px 0 0;
+    /*width: 220px;*/
+    background: url(../images/public/li01.png) no-repeat left 12px;
+    background-size: 60px;
+}
+.indexP03 ul li.sponLi02{
+    background: url(../images/public/li02.png) no-repeat left 12px;
+    background-size: 70px;
+}
+.indexP03 ul li.sponLi03{
+    background: url(../images/public/li03.png) no-repeat left 12px;
+    background-size: 70px;
+}
+.indexP03 ul li.sponLi04{
+    background: url(../images/public/li04.png) no-repeat -22px top;
+    background-size: 98px;
+}
+
+.indexP03 ul li b{
+   font-size: 40px;
+   color: #333333;
+   display: block;
+   height: 52px;
+}
+.indexP03 ul li p{
+    font-size:16px;
+    color: #666666
+}
+
+
+.fixRM {
+    position: fixed;
+    bottom: 30%;
+    right: 10px;
+    z-index: 10;
+    text-align: center;
+}
+
+
